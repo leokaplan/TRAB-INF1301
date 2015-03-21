@@ -28,6 +28,7 @@
 *.swp
 *.swo
 
+# Created from script
 lib
 bin
 obj
