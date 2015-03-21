@@ -13,4 +13,7 @@ Este repositório contém:
 
 Este projeto não seria possível sem a ajuda de:
 
-* Marcelo Politzer, Rafael bertoche, Danilo Nascimento e Eduardo Verdeja 
+* Marcelo Politzer
+* Rafael Bertoche
+* Danilo Nascimento 
+* Eduardo Verdeja 
