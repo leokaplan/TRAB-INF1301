@@ -13,7 +13,7 @@ Este repositório contém:
 
 Este projeto não seria possível sem a ajuda de:
 
-* Marcelo Politzer
-* Rafael Bertoche
-* Danilo Nascimento 
-* Eduardo Verdeja 
+* [Marcelo Politzer](https://github.com/mpolitzer)
+* [Rafael Bertoche](https://github.com/rbertoche)
+* [Danilo Nascimento](https://github.com/daniloanp) 
+* [Eduardo Verdeja](https://github.com/eaverdeja) 
