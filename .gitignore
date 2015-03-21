@@ -28,7 +28,6 @@
 *.swp
 *.swo
 
-Makefile
 lib
 bin
 obj
