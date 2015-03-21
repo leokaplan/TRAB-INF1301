@@ -1,9 +1,0 @@
-Tabela de Horários - Modular 2014.2
-
-18/08 - Danilo - 19h - 21h - Config do ambiente e do arcabouço de teste
-25/08 - Danilo - 19h - 20h - Config no ambiente linux
-01/09 - Danilo - 2h - 4h - Alterações na Árvore disponibilizada em Simples
-02/09 - Danilo - 18h - 20h30h - Alteração no Módulo de Testa-Árvore e no Script de Teste da Árvore
-03/09 - Danilo - 0h - 1h40h - Consertos no Módulo de Teste da Árvore
-03/09 - Danilo - 15h30m - 17h - Correção de Bugs e inconsistências no Módulo de Teste da Árvore
-04/09 - Danilo - 0h - 2h30m - Melhorias no Script de Teste do Módulo Árvore e Correções na Documentação do mesmo

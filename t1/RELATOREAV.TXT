@@ -1,7 +1,0 @@
-﻿Tabela de Horários - Modular 2014.2
-
-26/08 - Eduardo - 19h - 20h - Config do ambiente e do arcabouço de test
-27/08 - Eduardo - 21h - 22h - Estudo do modulo lista
-31/08 - Eduardo - 14h - 17h - Alteração do modulo lista
-02/08 - Eduardo - 19h-21h - Alteração no modulo arvore, alteração no script de teste
-03/08 - Eduardo - 24h-04h - Considerações finais (melhorias no modulo lista, no script de teste, revisão de documentação)

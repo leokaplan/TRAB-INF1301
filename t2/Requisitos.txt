@@ -1,9 +1,0 @@
-Requisitos Funcionais
-1. O sistema oferece ao usuário uma interface para criar um labirinto.
-	-> O usuário pode se movimentar em 4 direções (Norte, Sul, Leste, Oeste)
-	-> O usuário pode criar/destruir paredes em sua posição atual
-	-> O usuário pode criar/destruir um ponto inicial
-	-> O usuário pode criar/destruir um ponto final
-	
-2. O sistema resolve qualquer labirinto criado, 
-	enumerando os passos necessários para se chegar do início do labirinto até o final, se possível.

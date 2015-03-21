@@ -1,5 +1,0 @@
-26/11; 16h-19h  - Estudar como fazer o trabalho
-28/11; 19h-20h30 - Estudar testes
-30/12; 15-18h - Corrigir erros de sintaxe; Modificar a TESTGRA pra incluir deturpa e verifica; 
-30/12; 18h30-23h59 - Debugar(resolver segfaults e afins)
-1/12 18h - 2/12 06h - Debugar, finalzia script

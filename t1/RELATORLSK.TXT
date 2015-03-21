@@ -1,8 +1,0 @@
-Tabela de Horários - Modular 2014.2
-
-18/08 - Leonardo - 19h - 21h - Config do ambiente e do arcabouço de teste
-26/08 - Leonardo - 19h - 20h - Config do ambiente e do arcabouço de test
-27/08 - Leonardo - 19h - 20h - Config no ambiente linux
-31/08 - Leonardo - 14h - 17h - Alteração do modulo lista
-02/09 - Leonardo - 18h - 20h30h - Alteração no Módulo de Testa-Árvore e no Script de Teste da Árvore
-02/09 - Leonardo - 20h - 24h - Relatórios, listagem das tarefas restantes e separação das mesmas entre os membros do grupo, adequação de comentários

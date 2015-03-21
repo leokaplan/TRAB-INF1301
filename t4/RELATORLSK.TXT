@@ -1,7 +1,0 @@
-Tabela de Horários ; Modular 2014.2 ; T3
-
-12/11 ; Leonardo  ; 17h ; 21h ; Estudar ; Requisitos e modulos;
-23/11 ; Leonardo  ; 19h ; 21h ; Projetar ; Assertivas estruturais;
-30/11 ; Leonardo  ; 17h ; 21h ; Projetar ; Assertivas estruturais, deturpações, testes;
-01/12 ; Leonardo  ; 17h ; 24h ; Implementar ; Deturpa e Verifica;
-02/12 ; Leonardo  ; 00h ; 7h ; Implementar ; Deturpa e Verifica;
